@@ -5,7 +5,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 <br/><br/><br/>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=tailwind,emotion,bootstrap,mysql,firebase,jenkins)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,tailwind,emotion,bootstrap,firebase,jenkins)](https://skillicons.dev)<br/>
 
 </div>
