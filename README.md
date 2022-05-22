@@ -9,7 +9,7 @@
   <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="50"/>
   -->
   
-  ### Languages and Tools
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=02CE89&center=true&lines=Languages+and+Tools)](https://git.io/typing-svg)
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,tailwind,emotion,bootstrap,jenkins,firebase)](https://skillicons.dev)<br/>
 
 </div>
